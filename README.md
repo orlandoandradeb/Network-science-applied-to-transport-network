@@ -7,4 +7,4 @@ This code was used to generate the following paper:
 
 
 
-Which in the end is a very pragmatic approach to analyze public transport networks in terms of efficiency of travel time, spatial friction, and vulnerability. 
+At the end, this work aims to be a very pragmatic approach to analyze public transport networks in terms of efficiency of travel time, spatial friction, and vulnerability. 
